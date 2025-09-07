@@ -17,7 +17,7 @@ Modify the yaml header to include your name and affiliation. Save the document a
 
 ## Write some text
 
-My name is Caleb Ashcraft and I am from [Monterey]{style="color:blue"}, Kentucky. I am focused on *improving the usability of environmental data, UX, and ecoliteracy*. Change the color of the city name to blue and italicize your research topic.
+My name is Caleb Ashcraft and I am from [Monterey]{style="color:blue"}, Kentucky. I am focused on *improving the usability of environmental data, UX, and ecoliteracy*.
 
 Save the document and commit your change
 
@@ -30,9 +30,6 @@ Save the document and commit your change
 05+19+1994
 
 ```
-
-
-Save the document and commit your change.
 
 ## Render the document
 
