@@ -1,6 +1,10 @@
 ---
 title: "assignmentXX"
 format: html
+author:
+  name: Caleb Ashcraft
+  affiliation:
+    name: Boise State University
 ---
 
 # Your first Quarto Document
