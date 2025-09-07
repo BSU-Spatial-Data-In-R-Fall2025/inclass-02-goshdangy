@@ -17,7 +17,7 @@ Modify the yaml header to include your name and affiliation. Save the document a
 
 ## Write some text
 
-Delete this sentence and replace it with one sentence that tells me where you're from and a second sentence with the topic of your research. Change the color of the city name to blue and italicize your research topic.
+My name is Caleb Ashcraft and I am from [Monterey]{style="color:blue"}, Kentucky. I am focused on *improving the usability of environmental data, UX, and ecoliteracy*. Change the color of the city name to blue and italicize your research topic.
 
 Save the document and commit your change
 
